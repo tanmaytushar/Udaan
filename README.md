@@ -1,6 +1,6 @@
 # Udaan
 
-A platform designed to empower EAGL the foundation in tracking and managing their extensive range of initiatives.
+A platform designed to empower EAGL foundation in tracking and managing their extensive range of initiatives.
 
 ### Setup Guide
 
